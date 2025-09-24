@@ -61,7 +61,7 @@ nullptr <- [Prev|Data|Next] <-> [Prev|Data|Next] -> nullptr
  ^                                 |
  |---------------------------------|
 ```
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40adarshgs.909%2Fdsa-linked-lists-in-data-structures-80aa47a37a4f&psig=AOvVaw3_W3pK-G2vbPcS0cV9jMlC&ust=1758782793424000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjH54ax8Y8DFQAAAAAdAAAAABAE
+
 ---
 
 ## ⚖️ Linked List vs Array
@@ -75,7 +75,8 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40adarshgs.909%2
 | Insertion at End       | O(1) (amortized)    | O(n)                    |
 | Insertion at Start     | O(n)                | O(1)                    |
 
----
+---<img width="1400" height="734" alt="1_GkkSAhJ8ABT1iXArZamDbg" src="https://github.com/user-attachments/assets/caa35eca-9708-43f1-a01a-c4dae59b85a4" />
+
 
 ## ✅ Advantages of Linked Lists
 
